@@ -1,0 +1,11 @@
+{
+  "name": "peticiona-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.9",
+    "openai": "^4.21.0"
+  }
+}
