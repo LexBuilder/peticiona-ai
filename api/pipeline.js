@@ -1,3 +1,5 @@
+console.log("🚀 pipeline.js carregado");
+
 import { fetchCPCArticles } from "./utils/fetchCPC";
 import { embedAndInsert } from "./utils/openai";
 
